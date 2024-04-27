@@ -1,0 +1,37 @@
+{
+  "author": "Nicholas Nooney <nicholasnooney@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nnooney/noonarby-casa/issues"
+  },
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@tailwindcss/typography": "project",
+      "autoprefixer": "project",
+      "postcss": "project",
+      "postcss-cli": "project",
+      "tailwindcss": "project"
+    }
+  },
+  "dependencies": {},
+  "description": "\"Source for the website https://noonarby.casa\"",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.3"
+  },
+  "homepage": "https://github.com/nnooney/noonarby-casa#readme",
+  "keywords": [
+    "Hugo",
+    "Tailwind"
+  ],
+  "license": "Apache-2.0",
+  "name": "noonarby-casa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnooney/noonarby-casa.git"
+  },
+  "version": "0.1.0"
+}

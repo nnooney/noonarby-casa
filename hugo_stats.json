@@ -1,0 +1,30 @@
+{
+  "htmlElements": {
+    "tags": [
+      "article",
+      "body",
+      "div",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "link",
+      "meta",
+      "p",
+      "script",
+      "title"
+    ],
+    "classes": [
+      "container",
+      "lg:mx-auto",
+      "lg:prose-xl",
+      "my-10",
+      "prose",
+      "px-4",
+      "text-4xl"
+    ],
+    "ids": [
+      "welcome"
+    ]
+  }
+}
